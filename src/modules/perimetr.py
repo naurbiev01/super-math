@@ -1,4 +1,7 @@
 
 
-def perimetr_func(a, b, c, d):
-    return a + b + c + d
+def perimetr_func(arr):
+    summa = 0
+    for storona in arr:
+        summa += stotona
+    return summa
