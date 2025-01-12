@@ -4,7 +4,6 @@ import modules.factorial as factorial
 f1 = factorial.factorial_rec(5)
 print(f1)
 
-
 f2 = factorial.factorial_rec(7)
 print(f2)
 
