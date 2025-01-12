@@ -7,11 +7,11 @@ print(f1)
 f2 = factorial.factorial_rec(7)
 print(f2)
 
-f3 = factorial.fact_normal(5)_
-print(f1)
+f3 = factorial.fact_normal(5)
+print(f3)
 
-f4 = factorial.fact_normal(13)_
-print(f2)
+f4 = factorial.fact_normal(13)
+print(f4)
 
 p1 = perimetr.perimetr_func([1, 2, 5])
 print(p1)
